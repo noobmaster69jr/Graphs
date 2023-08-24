@@ -42,5 +42,6 @@ public class AdjList01 {
 		g.addEdge(0, 2, true);
 		g.addEdge(0, 3, true);
 		g.addEdge(1, 2, true);
+		g.printAdjList();
 	}
 }
